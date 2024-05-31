@@ -6,6 +6,8 @@ SuiGPT.tools Frontend: https://github.com/GPTutor/SuiGPT-frontend
 
 SuiGPT Decompiler's Dataset Creation Code: https://github.com/GPTutor/sui-decompiler
 
+# [Demo Video for SuiGPT (click me)](https://www.youtube.com/watch?v=RKxRQ2_fUgc&feature=youtu.be)
+
 # What is SuiGPT?
 
 SuiGPT is a tool that uses a Large Language Model to decompile and beautify Sui contracts. Even if users have concerns about the contracts, they can get answers by asking the SuiGPT Chatbot and posting on community discussion boards.
