@@ -1,12 +1,13 @@
 # SuiGPT Overflow Submission
 
+### [Demo Video for SuiGPT (click me)](https://www.youtube.com/watch?v=RKxRQ2_fUgc&feature=youtu.be)
+
 Please contact EasonC13@cmu.edu and eason.tw.chen@gmail.com for access to the private GitHub repositories. These repositories will be open-source once our paper gets published.
 
 SuiGPT.tools Frontend: https://github.com/GPTutor/SuiGPT-frontend
 
 SuiGPT Decompiler's Dataset Creation Code: https://github.com/GPTutor/sui-decompiler
 
-# [Demo Video for SuiGPT (click me)](https://www.youtube.com/watch?v=RKxRQ2_fUgc&feature=youtu.be)
 
 # What is SuiGPT?
 
