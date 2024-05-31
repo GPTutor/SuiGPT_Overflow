@@ -1,8 +1,14 @@
 # SuiGPT Overflow Submission
 
+
+### [Go to SuiGPT (click me)](https://suigpt.tools/)
+
 ### [Demo Video for SuiGPT (click me)](https://www.youtube.com/watch?v=RKxRQ2_fUgc&feature=youtu.be)
 
 ### [Pitch Deck for SuiGPT (click me)](https://docs.google.com/presentation/d/1MrOWC5SFbEG9b-Y2SJ8jxKvS14yw43Jo/edit#slide=id.p1)
+
+
+![](https://suigpt.tools/images/SuiGPT_Intro.png)
 
 Please contact EasonC13@cmu.edu and eason.tw.chen@gmail.com for access to the private GitHub repositories. These repositories will be open-source once our paper gets published.
 
