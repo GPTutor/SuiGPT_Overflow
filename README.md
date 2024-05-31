@@ -1,6 +1,6 @@
 # SuiGPT Overflow Submission
 
-Please contact EasonC13@cmu.edu and eason.tw.chen@gmail.com for access to the GitHub Repo
+Please contact EasonC13@cmu.edu and eason.tw.chen@gmail.com for access to the private GitHub repositories. These repositories will be open-source once our paper gets published.
 
 SuiGPT.tools Frontend: https://github.com/GPTutor/SuiGPT-frontend
 
