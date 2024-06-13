@@ -12,9 +12,9 @@
 
 Please contact EasonC13@cmu.edu and eason.tw.chen@gmail.com for access to the private GitHub repositories. These repositories will be open-source once our paper gets published.
 
-SuiGPT.tools Frontend: https://github.com/GPTutor/SuiGPT-frontend
-
-SuiGPT Decompiler's Dataset Creation Code: https://github.com/GPTutor/sui-decompiler
+- SuiGPT.tools Frontend: https://github.com/GPTutor/SuiGPT-frontend
+- SuiGPT.tools server backend (for API that can't run at AWS Lambda): https://github.com/GPTutor/SuiGPT-backend
+- SuiGPT Decompiler's Dataset Creation Code: https://github.com/GPTutor/sui-decompiler
 
 
 # What is SuiGPT?
